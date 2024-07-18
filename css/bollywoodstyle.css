@@ -1,0 +1,119 @@
+#bollywoodHeading{
+    text-align: center;
+}
+
+#link{
+    background-color: lightsalmon;
+}
+
+#amittrivediHeading{
+    background-color: beige;
+    text-align: center;
+    font-family: calibri;
+    font-size: 2rem;
+    color: brown;
+    border: 1px solid black;
+    border-radius: 10px;
+    text-shadow: 8px 8px 10px black;
+    box-shadow: 10px 10px 10px brown;
+}
+
+#amittrivedhiPic{
+    width: 400px;
+    height: 500px;
+    opacity: 0.6;
+}
+
+#amitDescription{
+    display: inline-block;
+    width: 1000px;
+    height: 500px;
+    text-align: justify;
+    overflow: auto;
+    font-size: 1.2rem;
+    background-color: lightsteelblue;
+}
+
+#anumalikHeading{
+    background-color: beige;
+    text-align: center;
+    font-family: calibri;
+    font-size: 2rem;
+    color: brown;
+    border: 1px solid black;
+    border-radius: 10px;
+    text-shadow: 8px 8px 10px black;
+    box-shadow: 10px 10px 10px brown;
+}
+
+#anumalikPic{
+    width: 400px;
+    height: 500px;
+}
+
+#anumalikDescription{
+    display: inline-block;
+    width: 1000px;
+    height: 500px;
+    text-align: justify;
+    overflow: auto;
+    font-size: 1.2rem;
+    background-color: lightcyan;
+    color: brown;
+}
+
+#rajeshroshanHeading{
+    background-color: beige;
+    text-align: center;
+    font-family: calibri;
+    font-size: 2rem;
+    color: brown;
+    border: 1px solid black;
+    border-radius: 10px;
+    text-shadow: 8px 8px 10px black;
+    box-shadow: 10px 10px 10px brown;
+}
+
+#rajeshroshanPic{
+    width: 400px;
+    height: 500px;
+    opacity: 0.6;
+}
+
+#rajeshDescription{
+    display: inline-block;
+    width: 1000px;
+    height: 500px;
+    text-align: justify;
+    overflow: auto;
+    font-size: 1.2rem;
+    background-color: lightsteelblue;
+}
+
+#roopkumarHeading{
+    background-color: beige;
+    text-align: center;
+    font-family: calibri;
+    font-size: 2rem;
+    color: brown;
+    border: 1px solid black;
+    border-radius: 10px;
+    text-shadow: 8px 8px     10px black;
+    box-shadow: 10px 10px 10px brown;
+}
+
+#roopkumarPic{
+    width: 400px;
+    height: 500px;
+}
+
+#roopkumarDescription{
+    display: inline-block;
+    width: 1000px;
+    height: 500px;
+    text-align: justify;
+    overflow: auto;
+    font-size: 1.2rem;
+    background-color: lightcyan;
+    color: brown;
+}

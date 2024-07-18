@@ -1,0 +1,16 @@
+#mainHeading{
+background-color: lightseagreen;
+text-align: center;
+font-size: 2.6rem;
+color: whitesmoke;
+text-shadow: 10px 10px 15px black;
+box-shadow: 10px 10px 20px lightseagreen;
+border:3.5px solid black;
+border-radius: 40px;
+font-family: calibri;
+}
+
+#indexBody{
+    background-color: lightcyan;
+}
+

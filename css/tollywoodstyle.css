@@ -1,0 +1,152 @@
+#link{
+    background-color: lightsalmon;
+}
+
+#tollywoodHeading{
+    text-align: center;
+}
+
+#dspHeading{
+    background-color: beige;
+    text-align: center;
+    color:brown;
+    text-shadow: 8px 8px 10px black;
+    box-shadow: 10px 10px 10px brown;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-family: calibri ;
+    font-size: 2rem;
+}
+
+#dspPic{
+    width: 400px;
+    height: 500px;
+    opacity: 0.6;
+}
+
+#dspDescription{
+    display: inline-block;
+    width: 1000px;
+    height: 500px;
+    overflow: auto;
+    text-align: justify;
+    font-size: 1.1rem ;
+    font-family: calibri;
+    background-color: lightsteelblue;
+}
+
+#thamanHeading{
+    background-color: beige;
+    text-align: center;
+    color:brown;
+    text-shadow: 8px 8px 10px black;
+    box-shadow: 10px 10px 10px brown;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-family: calibri ;
+    font-size: 2rem;
+}
+
+#thamanPic{
+    width: 400px;
+    height: 500px;
+}
+
+#thamanDescription{
+    display: inline-block;
+    width: 1000px;
+    height: 500px;
+    overflow: auto;
+    text-align: justify;
+    font-size: 1.1rem;
+    font-family: calibri;
+    background-color: lightcyan;
+    color: brown;
+}
+
+#gvHeading{
+    background-color: beige;
+    text-align: center;
+    color:brown;
+    text-shadow: 8px 8px 10px black;
+    box-shadow: 10px 10px 10px brown;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-family: calibri ;
+    font-size: 2rem;
+}
+
+#gvPic{
+    width: 400px;
+    height: 500px;
+    opacity: 0.6;
+}
+
+#gvDescription{
+    display: inline-block;
+    width: 1000px;
+    height: 500px;
+    overflow: auto;
+    text-align: justify;
+    font-size: 1.1rem;
+    font-family: calibri;
+    background-color: lightsteelblue;
+}
+
+#keeravaniHeading{
+    background-color: beige;
+    text-align: center;
+    color:brown;
+    text-shadow: 8px 8px 10px black;
+    box-shadow: 10px 10px 10px brown;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-family: calibri ;
+    font-size: 2rem;
+}
+
+#keeravaniPic{
+    width: 400px;
+    height: 500px;
+}
+
+#keeravaniDescription{
+    display: inline-block;
+    width: 1000px;
+    height: 500px;
+    overflow: auto;
+    text-align: justify;
+    font-size: 1.1rem;
+    font-family: claibri;
+    background-color: lightcyan;
+    color: brown;
+}
+
+#kaalaBhairavaHeading{
+    background-color: beige;
+    text-align: center;
+    color:brown;
+    text-shadow: 8px 8px 10px black;
+    box-shadow: 10px 10px 10px brown;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-family: calibri ;
+    font-size: 2rem;
+}
+
+#kaalaBhairavaPic{
+    width: 400px;
+    height: 500px;
+    opacity: 0.6;
+}
+
+#kaalaBhairavaDescrption{
+    display: inline-block;
+    width: 1000px;
+    height: 500px;
+    overflow: auto;
+    text-align: justify;
+    font-size: 1.1rem;
+    font-family: calibri;
+    background-color: lightsteelblue;
+}
